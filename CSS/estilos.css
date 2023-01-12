@@ -1,0 +1,43 @@
+    * {
+        color: blueviolet;
+    }
+    p,span {
+            color: red;
+            width: 300px;
+        }
+        h1{
+            font-family: 'East Sea Dokdo', cursive;;
+            border: 5px dotted black;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            margin-left: 10px;
+            margin-right: 10px;
+            /*padding-top: 20px;
+            padding-bottom: 15px;
+            padding-left: 15px;
+            padding-right: 20px;*/
+            padding: 25px 15px 10px 20px;
+            font-weight: bold;
+            color: pink;
+        }
+
+        section {
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 20px;
+        }
+        #parrafo_1 {
+            color: crimson;
+            font-size: 30px;
+            border: 2px solid cyan;
+        }
+        .estaesmiclase{
+            font-weight: bold;
+            color: deeppink;
+        }
+
+        section h1 {
+            font-weight: 400px;
+        }
+        
